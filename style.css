@@ -1,0 +1,37 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p, ol, ul {
+    font-size: 15px;
+}
+
+h1 {
+    color:mediumpurple;
+    font-weight: 700;
+    text-decoration:underline;
+}
+
+h3 {
+    color:firebrick;
+    font-weight: 700;
+}
+
+.recipe-image {
+    width: auto;
+    height: 500px;
+}
+
+a {
+    font-style: italic;
+}
+
+a:hover {
+    background-color:lightgreen;
+}
+
+a:active {
+    text-decoration: none;
+    font-weight: bold;
+    background-color: blueviolet;
+}
